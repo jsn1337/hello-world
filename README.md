@@ -1,2 +1,5 @@
 # hello-world
-Githbub test
+
+Hello there Earthlings!
+
+It is me your Python beginner.
